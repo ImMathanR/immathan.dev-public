@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jetpack compose on Mathan</title>
+    <link>https://immathan.dev/tags/jetpack-compose/</link>
+    <description>Recent content in jetpack compose on Mathan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://immathan.dev/tags/jetpack-compose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to disable Ripple effect in Jetpack Compose</title>
+      <link>https://immathan.dev/posts/2021_05_23_how_to_disable_ripple_animation_while_click_in_jetpack_compose/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://immathan.dev/posts/2021_05_23_how_to_disable_ripple_animation_while_click_in_jetpack_compose/</guid>
+      <description>Jetpack compose uses Indication to represent the visual indication of the interactions. By default, when you add to any clickable modifier to a component, it picks up the LocalIndication from the CompositionLocal hierarchy.
+Ripple illustration by JungIk Lee If you are using MaterialTheme as your current theme, the LocalIndication available in the CompositionLocal hiearchy by default will pick up Ripple as the default interaction feedback for clicks. At some places, you necessarily don&amp;rsquo;t want any indications for your click.</description>
+    </item>
+    
+  </channel>
+</rss>

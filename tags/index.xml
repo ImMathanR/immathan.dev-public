@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mathan</title>
+    <link>https://immathan.dev/tags/</link>
+    <description>Recent content in Tags on Mathan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://immathan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jetpack compose</title>
+      <link>https://immathan.dev/tags/jetpack-compose/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://immathan.dev/tags/jetpack-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://immathan.dev/tags/kotlin/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://immathan.dev/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>material</title>
+      <link>https://immathan.dev/tags/material/</link>
+      <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://immathan.dev/tags/material/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
